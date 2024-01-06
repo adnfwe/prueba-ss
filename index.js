@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que ibas a decir que si uwu')
+    alert('GACHAS POR ACEPTAR MIS DISCULPAS,NO VOLVERA A PASAR ESO CHI, LA AMO MUCHO MI ADRI')
 });
 
 const noBtn = document.querySelector('#noBtn');
